@@ -36,4 +36,3 @@ def test_shop_cart():
     finally:
         driver.quit()
 
-test_shop_cart()

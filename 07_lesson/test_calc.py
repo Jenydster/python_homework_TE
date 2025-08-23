@@ -29,5 +29,3 @@ def test_delay_calculator():
     finally:
         driver.quit()
 
-
-test_delay_calculator()
